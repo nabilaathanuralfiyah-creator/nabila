@@ -1,0 +1,31 @@
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #ffffff;
+}
+header{
+    background-color:rgb(241, 241, 227);
+    color:aliceblue;
+
+}
+nav a {
+    color:rgb(0, 0, 0);
+    margin-right: 15px:
+    text-decoration: nome;
+    font-weight: bold;
+
+}
+img{
+    width: 20%;
+    border-radius: 25px;
+    padding: 20:
+}
+h1{
+    text-align: center;
+}
+footer {
+
+}
